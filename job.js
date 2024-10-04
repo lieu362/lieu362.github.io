@@ -1,4 +1,4 @@
 {
-  "jarFileUri": "https://lieu362.github.io/test.jar",
+  "jarFileUri": "https://lieu362.github.io/ri.jar",
   "className": "com.example.demo.Test"
 }
